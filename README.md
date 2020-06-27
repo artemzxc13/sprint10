@@ -1,6 +1,7 @@
 # sprint10
 Яндекс.Практикум. Проектная работа № 10
- Ссылка на проект https://github.com/artemzxc13/sprint10.git
+
+Ссылка на проект https://github.com/artemzxc13/sprint10/
 ## Валидация форм
 Name
 только кириллица;
