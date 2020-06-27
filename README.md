@@ -1,7 +1,7 @@
 # sprint10
 
 Яндекс.Практикум. Проектная работа № 10
-v0.0.5 
+v0.0.6 
 
 Страница доступна на [GitHub Pages](https://artemzxc13.github.io/sprint10/)
 
