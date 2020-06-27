@@ -1,6 +1,6 @@
 # sprint10
 Яндекс.Практикум. Проектная работа № 10
- Страница доступна на [GitHub Pages] (https://artemzxc13.github.io/sprint10/)
+ Страница доступна на [GitHub Pages](https://artemzxc13.github.io/sprint10/)
 ## Валидация форм
 Name
 только кириллица;
